@@ -1,0 +1,11 @@
+let x=4,y=8,o=2,r=3,a=2,b=5,k=6,c=3,d=1;
+let t1 = y / o;
+let t2 = x + t1;
+let t3 = t2 * r;
+let t4 = a * b;
+let t5 = t4 + k;
+let t6 = c + d;
+let t7 = t5 / t6;
+let t8 = t3 + t7;
+let z = t8;
+console.log("z =", z);
